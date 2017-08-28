@@ -1,28 +1,10 @@
-
-
-لتنصيب سورس نيكسوس
-
+سورس نيكسوس
 ______________________________
 
-• افتح ترمنال وحط 
-
-git clone https://github.com/moodlIMyIl/TshAkE.git
-
-• انتر وراه حط •
-
-cd TshAkE
-
-• وانتر وراه حط •
-
-chmod +x install.sh
-
-• انتر وراه حط •
-
-./install.sh
-
-______________________________
+OPEN TRMNAL
+___________
 ONE COMMAND
-git clone https://github.com/DEVASL/NEXSUS.git && cd TshAkE && chmod +x install.sh && ./install.sh
+git clone https://github.com/DEVASL/NEXSUS.git && cd NEXSUS && chmod +x install.sh && ./install.sh
 ______________________________
 
 افتح ترمنال جديد ودز
@@ -39,9 +21,6 @@ TSHAKE-Auto.sh
  
  ويشتغل عندك البوت
 ______________________________
-
 تيجي الجديد ع الرقم 
-
 @DEVASL
-
 @PHPLUA
