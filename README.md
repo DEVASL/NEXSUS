@@ -1,9 +1,10 @@
-سورس نيكسوس
+# نسكسوس الحديث
 ______________________________
 
-OPEN TRMNAL
+# OPEN TRMNAL
 ___________
-ONE COMMAND
+# ONE COMMAND
+
 git clone https://github.com/DEVASL/NEXSUS.git && cd NEXSUS && chmod +x install.sh && ./install.sh
 ______________________________
 
